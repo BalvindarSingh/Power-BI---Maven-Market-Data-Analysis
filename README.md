@@ -21,3 +21,9 @@ Below are some of Visualization snapshots
 # USA Region Specific 
 
 ![USA](https://user-images.githubusercontent.com/85178650/120527929-87a56000-c3f8-11eb-91af-d10c4d92a450.PNG)
+
+There are many insight You can see in visual As i am a bigginer so forgive my mistakes hope you all likes it 
+
+# I upload Main Data file Please check in Your PC 
+
+Thank You!!!!
